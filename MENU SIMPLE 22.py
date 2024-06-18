@@ -36,4 +36,5 @@ while True:
     print("correo: ", correo)
 
   elif opc == 5:
+    print("gracias por tu tiempo :) ")
     break
